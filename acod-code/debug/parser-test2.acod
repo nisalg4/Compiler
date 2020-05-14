@@ -1,0 +1,5 @@
+prog main {
+    var int a = 5;
+    var float b = 7.2;
+    //var string c = "text";
+}

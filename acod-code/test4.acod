@@ -1,0 +1,6 @@
+prog main { // Find the hypotenuse of a right triangle.
+    var int a = 2;
+    var int b = 3;
+    print( "Input legs> " );
+    print( "Hypotenuse= ", ( a * a + b * b ) ^ 0.5 );
+}

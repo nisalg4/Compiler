@@ -1,0 +1,70 @@
+{
+  "Name": "kwdprog",
+  "TokenId": 10,
+  "Value": "prog",
+  "Key": 1,
+  "Children": [
+    {
+      "Name": "kwdmain",
+      "TokenId": 11,
+      "Value": "main",
+      "Key": 3,
+      "Children": [
+        {
+          "Name": "kwdprint",
+          "TokenId": 23,
+          "Value": "print",
+          "Key": 9,
+          "Children": [
+            {
+              "Name": "string",
+              "TokenId": 5,
+              "Value": "ASCII:",
+              "Key": 19,
+              "Children": [
+                {
+                  "Name": "string",
+                  "TokenId": 5,
+                  "Value": " A= ",
+                  "Key": 28,
+                  "Children": [
+                    {
+                      "Name": "int",
+                      "TokenId": 3,
+                      "Value": "65",
+                      "Key": 37,
+                      "Children": [
+                        {
+                          "Name": "string",
+                          "TokenId": 5,
+                          "Value": " Z= ",
+                          "Key": 46,
+                          "Children": [
+                            {
+                              "Name": "int",
+                              "TokenId": 3,
+                              "Value": "90",
+                              "Key": 55,
+                              "Children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "eof",
+      "TokenId": 0,
+      "Value": "",
+      "Key": 59,
+      "Children": []
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "Name": "kwdprog",
+  "TokenId": 10,
+  "Value": "prog",
+  "Key": 1,
+  "Children": [
+    {
+      "Name": "kwdmain",
+      "TokenId": 11,
+      "Value": "main",
+      "Key": 3,
+      "Children": [
+        {
+          "Name": "kwdvars",
+          "TokenId": 26,
+          "Value": "var",
+          "Key": 7,
+          "Children": [
+            {
+              "Name": "equal",
+              "TokenId": 45,
+              "Value": "=",
+              "Key": 18,
+              "Children": [
+                {
+                  "Name": "kwdint",
+                  "TokenId": 16,
+                  "Value": "int",
+                  "Key": 13,
+                  "Children": [
+                    {
+                      "Name": "id",
+                      "TokenId": 2,
+                      "Value": "a",
+                      "Key": 16,
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "int",
+                  "TokenId": 3,
+                  "Value": "2",
+                  "Key": 25,
+                  "Children": []
+                },
+                {
+                  "Name": "kwdvars",
+                  "TokenId": 26,
+                  "Value": "var",
+                  "Key": 28,
+                  "Children": [
+                    {
+                      "Name": "equal",
+                      "TokenId": 45,
+                      "Value": "=",
+                      "Key": 39,
+                      "Children": [
+                        {
+                          "Name": "kwdint",
+                          "TokenId": 16,
+                          "Value": "int",
+                          "Key": 34,
+                          "Children": [
+                            {
+                              "Name": "id",
+                              "TokenId": 2,
+                              "Value": "b",
+                              "Key": 37,
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "int",
+                          "TokenId": 3,
+                          "Value": "3",
+                          "Key": 46,
+                          "Children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "kwdprint",
+              "TokenId": 23,
+              "Value": "print",
+              "Key": 51,
+              "Children": [
+                {
+                  "Name": "string",
+                  "TokenId": 5,
+                  "Value": "Input legs> ",
+                  "Key": 61,
+                  "Children": []
+                },
+                {
+                  "Name": "kwdprint",
+                  "TokenId": 23,
+                  "Value": "print",
+                  "Key": 67,
+                  "Children": [
+                    {
+                      "Name": "aster",
+                      "TokenId": 41,
+                      "Value": "*",
+                      "Key": 95,
+                      "Children": [
+                        {
+                          "Name": "string",
+                          "TokenId": 5,
+                          "Value": "Hypotenuse= ",
+                          "Key": 77,
+                          "Children": []
+                        },
+                        {
+                          "Name": "id",
+                          "TokenId": 2,
+                          "Value": "a",
+                          "Key": 91,
+                          "Children": []
+                        },
+                        {
+                          "Name": "id",
+                          "TokenId": 2,
+                          "Value": "a",
+                          "Key": 97,
+                          "Children": []
+                        },
+                        {
+                          "Name": "plus",
+                          "TokenId": 47,
+                          "Value": "+",
+                          "Key": 101,
+                          "Children": [
+                            {
+                              "Name": "aster",
+                              "TokenId": 41,
+                              "Value": "*",
+                              "Key": 108,
+                              "Children": [
+                                {
+                                  "Name": "id",
+                                  "TokenId": 2,
+                                  "Value": "b",
+                                  "Key": 104,
+                                  "Children": []
+                                },
+                                {
+                                  "Name": "id",
+                                  "TokenId": 2,
+                                  "Value": "b",
+                                  "Key": 110,
+                                  "Children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "caret",
+                          "TokenId": 42,
+                          "Value": "^",
+                          "Key": 115,
+                          "Children": [
+                            {
+                              "Name": "float",
+                              "TokenId": 4,
+                              "Value": "0.5",
+                              "Key": 118,
+                              "Children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "eof",
+      "TokenId": 0,
+      "Value": "",
+      "Key": 122,
+      "Children": []
+    }
+  ]
+}

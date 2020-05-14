@@ -1,0 +1,4 @@
+///This slash and text should be should be ignored
+1.0//2.04.0This should be ignored too, but not the division op coming up
+/
+print //don't print this commented print

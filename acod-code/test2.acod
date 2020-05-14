@@ -1,0 +1,6 @@
+prog main { // Find the circumference of a circle.
+    var float pi = 3.14;
+    print( "Input radius> " );
+    var float rx = 5;
+    var float circum = 2 * pi * rx;
+}

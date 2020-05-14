@@ -1,0 +1,167 @@
+{
+  "Name": "kwdprog",
+  "TokenId": 10,
+  "Value": "prog",
+  "Key": 1,
+  "Children": [
+    {
+      "Name": "kwdmain",
+      "TokenId": 11,
+      "Value": "main",
+      "Key": 3,
+      "Children": [
+        {
+          "Name": "kwdvars",
+          "TokenId": 26,
+          "Value": "var",
+          "Key": 7,
+          "Children": [
+            {
+              "Name": "equal",
+              "TokenId": 45,
+              "Value": "=",
+              "Key": 18,
+              "Children": [
+                {
+                  "Name": "kwdint",
+                  "TokenId": 16,
+                  "Value": "int",
+                  "Key": 13,
+                  "Children": [
+                    {
+                      "Name": "id",
+                      "TokenId": 2,
+                      "Value": "a",
+                      "Key": 16,
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "int",
+                  "TokenId": 3,
+                  "Value": "5",
+                  "Key": 25,
+                  "Children": []
+                },
+                {
+                  "Name": "kwdvars",
+                  "TokenId": 26,
+                  "Value": "var",
+                  "Key": 28,
+                  "Children": [
+                    {
+                      "Name": "equal",
+                      "TokenId": 45,
+                      "Value": "=",
+                      "Key": 39,
+                      "Children": [
+                        {
+                          "Name": "kwdint",
+                          "TokenId": 16,
+                          "Value": "int",
+                          "Key": 34,
+                          "Children": [
+                            {
+                              "Name": "id",
+                              "TokenId": 2,
+                              "Value": "b",
+                              "Key": 37,
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "minus",
+                          "TokenId": 46,
+                          "Value": "-",
+                          "Key": 49,
+                          "Children": [
+                            {
+                              "Name": "int",
+                              "TokenId": 3,
+                              "Value": "4",
+                              "Key": 46,
+                              "Children": []
+                            },
+                            {
+                              "Name": "int",
+                              "TokenId": 3,
+                              "Value": "2",
+                              "Key": 53,
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "kwdvars",
+                          "TokenId": 26,
+                          "Value": "var",
+                          "Key": 56,
+                          "Children": [
+                            {
+                              "Name": "equal",
+                              "TokenId": 45,
+                              "Value": "=",
+                              "Key": 67,
+                              "Children": [
+                                {
+                                  "Name": "kwdint",
+                                  "TokenId": 16,
+                                  "Value": "int",
+                                  "Key": 62,
+                                  "Children": [
+                                    {
+                                      "Name": "id",
+                                      "TokenId": 2,
+                                      "Value": "c",
+                                      "Key": 65,
+                                      "Children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "Name": "plus",
+                                  "TokenId": 47,
+                                  "Value": "+",
+                                  "Key": 77,
+                                  "Children": [
+                                    {
+                                      "Name": "id",
+                                      "TokenId": 2,
+                                      "Value": "a",
+                                      "Key": 73,
+                                      "Children": []
+                                    },
+                                    {
+                                      "Name": "id",
+                                      "TokenId": 2,
+                                      "Value": "b",
+                                      "Key": 80,
+                                      "Children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "eof",
+      "TokenId": 0,
+      "Value": "",
+      "Key": 84,
+      "Children": []
+    }
+  ]
+}
