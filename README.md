@@ -1,7 +1,3 @@
-# 444
-
-Contains all src for 444.
-
 # Setup/Install
 
 You'll need to have Node.JS installed on your local machine and command line access to `npm`.
@@ -31,3 +27,5 @@ To run tests within the project, run:
 This repo will follow git flow. Branches should be created per feature/improvement. When a feature is complete, submit a pull request.
 
 Pull requests should be small and incremental. All pull request reviews require another team members review and approval before merge.
+
+#School project which was done with a team(4 members)
